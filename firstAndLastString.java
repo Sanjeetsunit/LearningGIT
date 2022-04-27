@@ -10,6 +10,6 @@ public class firstAndLastString {
         System.out.println("The first string is ::"+firstspace);
         System.out.println("The last STring is ::"+last);
 */
-        )
+
     }
 }

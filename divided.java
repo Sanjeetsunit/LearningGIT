@@ -1,4 +1,4 @@
-public class dicided {
+ class dicided {
 
     public static void main(String[] args){
         System.out.println("Yes i added for divided");
