@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8461a2c5-1794-427b-86b7-6355031e56ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/letstartlearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Overriding_code.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/.idea/letstartlearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/Overriding_code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/dicided.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/diff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/firstAndLastString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letstartlearning/multiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/divided.java" beforeDir="false" afterPath="$PROJECT_DIR$/divided.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstAndLastString.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstAndLastString.java" afterDir="false" />
